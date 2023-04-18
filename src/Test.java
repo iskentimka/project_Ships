@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        Game play = new Game();
-        Game.startTheGame();
+        Menu play = new Menu();
+        Menu.start();
     }
 }
